@@ -7,7 +7,7 @@ My daily Python coding journey before starting BTech.
 - Day 2 - BMI Calculator
 - Day 3 - Number Guessing Game (difficulty levels, score tracker, play again)
 - Day 4 - Currency Converter (live exchange rates via API)
-
+- Day 4 - Rock Paper Scissors (score tracker, play again)
 ## Goals
 - Master Python in 2 months
 - Build real projects every day
