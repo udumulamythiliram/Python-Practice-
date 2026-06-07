@@ -29,3 +29,17 @@ print(f"Feels like:{Feels_like}")
 print(f"Humidity:{Humidity}%")
 print(f"Description:{Description}")
 print(f"Wind_speed:{Wind_speed}m/s")
+
+
+if Temperature >= 35:
+    print("Very hot outside , avoide heavy and dark colored cloths")
+elif Temperature >= 25:
+    print("Warm outside , wear light cotton cloths")
+elif Temperature >= 15:
+    print("Mild outside , can go out with anything")
+elif Temperature <15:
+    print("Cold Outside , Suggested to wear a jacket")
+
+
+if "rain" in Description:
+    print("Rainy outside , Umbrella needed")
