@@ -10,7 +10,7 @@ My daily Python coding journey before starting BTech.
 - Day 4 - Rock Paper Scissors (game modes FT3/FT6/FT10, streak tracker)
 - Day 5 - Weather App (live weather data via OpenWeatherMap API)
 - Day 5 - Unit Testing with pytest (BMI calculator tests)
-
+- Day 5 - Weather App updated with clothing suggestions
 ## Goals
 - Master Python in 2 months
 - Build real projects every day
