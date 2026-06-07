@@ -1,30 +1,24 @@
-#BODY MASS INDEX CALCULATOR
 
-name = input("whats is your name:")
-height = float(input("what is your height in meters;"))
-weight = float(input("what is your weight in kg:"))
-bmi = weight / height **2
-
-print(f"Health report for {name}:")
-print(f"BMI:{bmi}")
-
-if bmi < 18.5:
-    category = "Underweight"
-elif bmi < 25:
-    category = "Normal weight"
-elif bmi < 30:
-    category = "Overweight"
-else:
-    category = "Obese"
+def get_bmi( weight, height):
+    return weight / height**2
 
 
-match category:
-    case "Underweight":
-        print("You are underweight and may need to gain weight for optimal health.")
-    case "Normal weight":
-        print("You have a normal weight. Keep up the good work!")
-    case "Overweight":
-        print("You are overweight and may benefit from weight loss for better health.")
-    case "Obese":
-        print("You are obese and should consider consulting a healthcare professional for weight management.")
-   
+def get_category(bmi):
+    if bmi < 18.5:
+        return "Underweight"
+    elif bmi < 25:
+        return "Normal weight"
+    elif bmi < 30:
+        return "Overweight"
+    else:
+        return "Obese"
+
+def main():
+    weight = float(input())
+    height = float(input())
+    bmi = get_bmi(weight, height)
+    print(bmi)
+    print(get_category(bmi))
+
+if __name__ == "__main__":
+    main()
