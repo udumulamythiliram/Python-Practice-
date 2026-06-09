@@ -1,4 +1,7 @@
 Today I completed a lecture about file input output from the cs50p playlist and made this mini project on what I learned from the lecture
 
 2026-06-08 22:05:43.408035
+------------------------------Day 7 , completed lecture on regular expressions from cs50 playlist
+
+2026-06-09 21:49:31.949986
 ------------------------------
