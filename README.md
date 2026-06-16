@@ -18,7 +18,8 @@ My daily Python coding journey before starting BTech.
 - Master Python in 2 months
 - Build real projects every day
 - Start BTech with a strong foundation
-- Start AI and ML 
+- Start AI and ML
+- Learn python libraries like numpy pandas and pygame
 
 ## Setup
 - Currency Converter: get free API key at exchangerate-api.com
