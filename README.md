@@ -11,9 +11,9 @@ My daily Python coding journey before starting BTech.
 - Day 5 - Weather App (live weather data via OpenWeatherMap API)
 - Day 5 - Unit Testing with pytest (BMI calculator tests)
 - Day 5 - Weather App updated with clothing suggestions
-- Day 6 - Diary Entry with file I/O ( edited * 6 )
+- Day 6 - Diary Entry with file I/O ( edited * 7 )
 - Day 7 - Password generator + checker ( using re )
-- No progress again * 3
+- No progress again * 4
 ## Goals
 - Master Python in 2 months
 - Build real projects every day
