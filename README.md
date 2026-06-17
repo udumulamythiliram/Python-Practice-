@@ -14,12 +14,14 @@ My daily Python coding journey before starting BTech.
 - Day 6 - Diary Entry with file I/O ( edited * 8 )
 - Day 7 - Password generator + checker ( using re )
 - No progress again * 5
+
 ## Goals
 - Master Python in 2 months
 - Build real projects every day
 - Start BTech with a strong foundation
 - Start AI and ML
 - Learn python libraries like numpy pandas and pygame
+- Master Data Science fundamentals and applications
 
 ## Setup
 - Currency Converter: get free API key at exchangerate-api.com
