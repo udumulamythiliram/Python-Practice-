@@ -13,7 +13,7 @@ My daily Python coding journey before starting BTech.
 - Day 5 - Weather App updated with clothing suggestions
 - Day 6 - Diary Entry with file I/O ( edited * 8 )
 - Day 7 - Password generator + checker ( using re )
-- No progress again * 5
+- No progress again * 6
 
 ## Goals
 - Master Python in 2 months
