@@ -22,7 +22,7 @@ My daily Python coding journey before starting BTech.
 - Start BTech with a strong foundation
 - Start AI and ML
 - Learn python libraries like numpy pandas and pygame
-- Master Data Science fundamentals and applications
+
 
 ## Setup
 - Currency Converter: get free API key at exchangerate-api.com
