@@ -15,6 +15,7 @@ My daily Python coding journey before starting BTech.
 - Day 7 - Password generator + checker ( using re )
 - day 8 to day 17 - break + learned python Object oriented programming 
 - day 18 - Simple banking system with OOP
+- day 19 - break
 
 ## Goals
 - Master Python in 2 months
