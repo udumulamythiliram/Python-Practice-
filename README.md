@@ -24,7 +24,7 @@ My daily Python coding journey before starting BTech.
 - Build real projects every day
 - Start BTech with a strong foundation
 - Start AI and ML
-- Learn python libraries like numpy pandas and pygame
+
 
 
 ## Setup
