@@ -23,7 +23,7 @@ My daily Python coding journey before starting BTech.
 - Master Python in 2 months
 - Build real projects every day
 - Start BTech with a strong foundation
-- Start AI and ML
+
 
 
 
