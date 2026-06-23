@@ -16,7 +16,8 @@ My daily Python coding journey before starting BTech.
 - day 8 to day 17 - break + learned python Object oriented programming 
 - day 18 - Simple banking system with OOP
 - day 19 - break
-- day 20 - starting dsa 
+- day 20 - starting dsa
+- day 21 - arrays
 
 ## Goals
 - Master Python in 2 months
