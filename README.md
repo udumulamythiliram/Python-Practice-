@@ -18,7 +18,9 @@ My daily Python coding journey before starting BTech.
 - day 19 - break
 - day 20 - starting dsa
 - day 21 - arrays
--        - prefix sum
+- day 22 - prefix sum
+- day 23 - two pointers
+  
 
 ## Goals
 - Master Python in 2 months
