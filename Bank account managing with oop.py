@@ -1,6 +1,4 @@
 class Account:
-
-
     def __init__(self,name , money):
         self.name = name
         self.money = money
@@ -13,9 +11,7 @@ class Account:
             print("Amount to be deposited should not be negative!")
             
             if (s:= input("Did you mean withdraw? ( YES OR NO)")).lower()== "yes":
-                self.withdraw(-amount)
-                
-                
+                self.withdraw(-amount)             
         else:
             self.money += amount
             return self.money
