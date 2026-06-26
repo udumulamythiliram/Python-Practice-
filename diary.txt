@@ -4,10 +4,3 @@ Today I completed a lecture about file input output from the cs50p playlist and 
 ------------------------------Day 7 , completed lecture on regular expressions from cs50 playlist
 
 2026-06-09 21:49:31.949986
-------------------------------today no progress made , i took a break due to headache
-
-2026-06-10 18:46:41.244793
-------------------------------nothing today too :(((((
-
-2026-06-11 21:38:39.710699
-------------------------------
