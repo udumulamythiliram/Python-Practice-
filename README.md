@@ -20,6 +20,7 @@ My daily Python coding journey before starting BTech.
 - day 21 - arrays
 - day 22 - prefix sum
 - day 23 - two pointers
+- day 24 - sliding windows
   
 
 ## Goals
