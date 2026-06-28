@@ -22,6 +22,7 @@ My daily Python coding journey before starting BTech.
 - day 23 - two pointers
 - day 24 - sliding windows
 - day 25 - Kanade's algorithm
+- day 26 - more sliding window problems 
   
 
 ## Goals
